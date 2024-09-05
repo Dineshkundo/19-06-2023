@@ -10,7 +10,7 @@ opensource platfrom written on go lang used to manage containers.
 google invented it on 2014 but later given to cncf & initial version is 2015 
 
 COMPONENTS:
-ARCHITECTURE: CNPCA
+ARCHITECTURE: CNPCA (Cluster-Node-pod-container-application)
 
 MASTER NODE:
 1. API SERVER: Used to communicate with k8s cluster.
